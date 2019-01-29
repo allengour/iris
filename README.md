@@ -3,7 +3,7 @@
 # iris
 Making the world a more colorful place. Iris is a voice assistant for the visually impaired.
 
-Built at nwhacks 2019. It was fun.
+Built at nwhacks 2019. It was fun. Make sure to check out our devpost [here](https://devpost.com/software/iris-ncxz9e).
 
 
 ### Steps to use:
