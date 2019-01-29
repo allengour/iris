@@ -1,3 +1,5 @@
+![iris logo](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/000/752/485/datas/medium.png)
+
 # iris
 Making the world a more colorful place. Iris is a voice assistant for the visually impaired.
 
