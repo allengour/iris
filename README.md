@@ -1,6 +1,8 @@
 # iris
 Making the world a more colorful place. Iris is a voice assistant for the visually impaired.
 
+Built at nwhacks 2019. It was fun.
+
 
 ### Steps to use:
 1. start local API using `npm start`
