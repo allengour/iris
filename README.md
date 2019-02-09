@@ -9,8 +9,7 @@ Built at nwhacks 2019. It was fun. Make sure to check out our devpost [here](htt
 ### Steps to use:
 1. start local API using `npm start`
 2. bind local API with **ngrok** using `./ngrok http -bind-tls=true 8080`
-3. use [Standard Library API]() to call the ngrok API [here](https://allengour.lib.id/alexa@dev/intents/ColorBot/)
-  a. be sure to update the stdlib API with the new ngrok link
+3. use [Standard Library API]() to call the ngrok API [here](https://allengour.lib.id/alexa@dev/intents/ColorBot/) (be sure to update the stdlib API with the new ngrok link)
 4. Alexa is now ready to call the stdlib API!
 
 ### Tech used:
